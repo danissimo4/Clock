@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.contener {
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+body {
+  background: rgb(26, 26, 38);
+}
+
+.p {
+  font-size: 60px;
+  color: #fff;
+}
+
+.time {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
+  height: 80px;
+  margin: 10px;
+  margin-top: 20%;
+}
+.hour {
+  width: 80px;
+  height: 80px;
+  background: rgb(59, 58, 67);
+  margin: 10px;
+  font-size: 70px;
+  color: #fff;
+  text-align: center;
+  border-radius: 10px;
+}
+.min {
+  width: 80px;
+  height: 80px;
+  background: rgb(59, 58, 67);
+  margin: 10px;
+  font-size: 70px;
+  color: #fff;
+  text-align: center;
+  border-radius: 10px;
+}
+.sec {
+  width: 80px;
+  height: 80px;
+  background: rgb(59, 58, 67);
+  margin: 10px;
+  font-size: 70px;
+  color: #fff;
+  text-align: center;
+  border-radius: 10px;
+}
